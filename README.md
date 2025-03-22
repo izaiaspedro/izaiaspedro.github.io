@@ -1,1 +1,1 @@
-# izaiaspedro.githut.io
+# izaiaspedro.github.io
